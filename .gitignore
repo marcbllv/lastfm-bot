@@ -1,0 +1,5 @@
+*.swp
+appstate.json
+node_modules/
+package-lock.json
+credentials.json
